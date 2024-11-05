@@ -44,5 +44,9 @@ https://useinsider.com/pt/sistemas-de-recomendacao-tudo-que-voce-precisa-saber/
 
 https://github.com/fuxiAIlab/RL4RS/tree/main?tab=readme-ov-file
 
+https://www.sciencedirect.com/science/article/pii/S095070512030407X
+
+https://github.com/irskid5/drr_restaurants
+
 tcc: SISTEMA DE RECOMENDAÇÃO DE MÚSICAS BASEADO EM DEEP REINFORCEMENT LEARNING - Leandro Yamachita da Costa
 
